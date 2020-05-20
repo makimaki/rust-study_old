@@ -1,5 +1,5 @@
 [package]
-name = "rust-study"
+name = "rust-study_old"
 version = "0.1.0"
 authors = ["Yuta Sakamaki <yuta_sakamaki@albert2005.co.jp>"]
 edition = "2018"
